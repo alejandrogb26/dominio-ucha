@@ -1,0 +1,542 @@
+[
+    {
+        "id": 1,
+        "idAlumno": 1,
+        "samaccountname": "juanpg",
+        "userPrincipalName": "juanpg",
+        "distinguishedName": "CN=juanpg,OU=1,OU=ordinario,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Juan Pérez García",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/ordinario/1/juanpg",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/ordinario/1/juanpg",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\ordinario\\1\\juanpg",
+        "grupos": [
+            "G_ALUM_INF_DAM_ORD_1"
+        ]
+    },
+    {
+        "id": 2,
+        "idAlumno": 2,
+        "samaccountname": "analm",
+        "userPrincipalName": "analm",
+        "distinguishedName": "CN=analm,OU=1,OU=ordinario,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Ana López Martínez",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/ordinario/1/analm",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/ordinario/1/analm",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\ordinario\\1\\analm",
+        "grupos": [
+            "G_ALUM_INF_DAM_ORD_1"
+        ]
+    },
+    {
+        "id": 3,
+        "idAlumno": 3,
+        "samaccountname": "luisgf",
+        "userPrincipalName": "luisgf",
+        "distinguishedName": "CN=luisgf,OU=1,OU=ordinario,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Luis Gómez Fernández",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/ordinario/1/luisgf",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/ordinario/1/luisgf",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\ordinario\\1\\luisgf",
+        "grupos": [
+            "G_ALUM_INF_DAM_ORD_1"
+        ]
+    },
+    {
+        "id": 4,
+        "idAlumno": 4,
+        "samaccountname": "maríasr",
+        "userPrincipalName": "maríasr",
+        "distinguishedName": "CN=maríasr,OU=1,OU=dual,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "María Sánchez Ruiz",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/dual/1/maríasr",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/dual/1/maríasr",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\dual\\1\\maríasr",
+        "grupos": [
+            "G_ALUM_INF_DAM_DUAL_1"
+        ]
+    },
+    {
+        "id": 5,
+        "idAlumno": 5,
+        "samaccountname": "pedrodm",
+        "userPrincipalName": "pedrodm",
+        "distinguishedName": "CN=pedrodm,OU=1,OU=dual,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Pedro Díaz Moreno",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/dual/1/pedrodm",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/dual/1/pedrodm",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\dual\\1\\pedrodm",
+        "grupos": [
+            "G_ALUM_INF_DAM_DUAL_1"
+        ]
+    },
+    {
+        "id": 6,
+        "idAlumno": 6,
+        "samaccountname": "lucíarn",
+        "userPrincipalName": "lucíarn",
+        "distinguishedName": "CN=lucíarn,OU=1,OU=dual,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Lucía Romero Navas",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/dual/1/lucíarn",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/dual/1/lucíarn",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\dual\\1\\lucíarn",
+        "grupos": [
+            "G_ALUM_INF_DAM_DUAL_1"
+        ]
+    },
+    {
+        "id": 7,
+        "idAlumno": 7,
+        "samaccountname": "davidol",
+        "userPrincipalName": "davidol",
+        "distinguishedName": "CN=davidol,OU=2,OU=ordinario,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "David Ortega León",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/ordinario/2/davidol",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/ordinario/2/davidol",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\ordinario\\2\\davidol",
+        "grupos": [
+            "G_ALUM_INF_DAM_ORD_2"
+        ]
+    },
+    {
+        "id": 8,
+        "idAlumno": 8,
+        "samaccountname": "elenars",
+        "userPrincipalName": "elenars",
+        "distinguishedName": "CN=elenars,OU=2,OU=ordinario,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Elena Reyes Santos",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/ordinario/2/elenars",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/ordinario/2/elenars",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\ordinario\\2\\elenars",
+        "grupos": [
+            "G_ALUM_INF_DAM_ORD_2"
+        ]
+    },
+    {
+        "id": 9,
+        "idAlumno": 9,
+        "samaccountname": "carlosmt",
+        "userPrincipalName": "carlosmt",
+        "distinguishedName": "CN=carlosmt,OU=2,OU=ordinario,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Carlos Molina Torres",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/ordinario/2/carlosmt",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/ordinario/2/carlosmt",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\ordinario\\2\\carlosmt",
+        "grupos": [
+            "G_ALUM_INF_DAM_ORD_2"
+        ]
+    },
+    {
+        "id": 10,
+        "idAlumno": 10,
+        "samaccountname": "lauravj",
+        "userPrincipalName": "lauravj",
+        "distinguishedName": "CN=lauravj,OU=2,OU=dual,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Laura Vega Jiménez",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/dual/2/lauravj",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/dual/2/lauravj",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\dual\\2\\lauravj",
+        "grupos": [
+            "G_ALUM_INF_DAM_DUAL_2"
+        ]
+    },
+    {
+        "id": 11,
+        "idAlumno": 11,
+        "samaccountname": "andrésgc",
+        "userPrincipalName": "andrésgc",
+        "distinguishedName": "CN=andrésgc,OU=2,OU=dual,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Andrés Gil Campos",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/dual/2/andrésgc",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/dual/2/andrésgc",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\dual\\2\\andrésgc",
+        "grupos": [
+            "G_ALUM_INF_DAM_DUAL_2"
+        ]
+    },
+    {
+        "id": 12,
+        "idAlumno": 12,
+        "samaccountname": "saraps",
+        "userPrincipalName": "saraps",
+        "distinguishedName": "CN=saraps,OU=2,OU=dual,OU=dam,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Sara Peña Serrano",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/dam/dual/2/saraps",
+        "rutCarpComun": "/mnt/Comun/informatica/dam/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/dam/dual/2/saraps",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\dam\\dual\\2\\saraps",
+        "grupos": [
+            "G_ALUM_INF_DAM_DUAL_2"
+        ]
+    },
+    {
+        "id": 13,
+        "idAlumno": 13,
+        "samaccountname": "miguelhf",
+        "userPrincipalName": "miguelhf",
+        "distinguishedName": "CN=miguelhf,OU=1,OU=ordinario,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Miguel Hernández Flores",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/ordinario/1/miguelhf",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/ordinario/1/miguelhf",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\ordinario\\1\\miguelhf",
+        "grupos": [
+            "G_ALUM_INF_ASIR_ORD_1"
+        ]
+    },
+    {
+        "id": 14,
+        "idAlumno": 14,
+        "samaccountname": "nataliacm",
+        "userPrincipalName": "nataliacm",
+        "distinguishedName": "CN=nataliacm,OU=1,OU=ordinario,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Natalia Cano Marín",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/ordinario/1/nataliacm",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/ordinario/1/nataliacm",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\ordinario\\1\\nataliacm",
+        "grupos": [
+            "G_ALUM_INF_ASIR_ORD_1"
+        ]
+    },
+    {
+        "id": 15,
+        "idAlumno": 15,
+        "samaccountname": "hugogi",
+        "userPrincipalName": "hugogi",
+        "distinguishedName": "CN=hugogi,OU=1,OU=ordinario,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Hugo Guerrero Iglesias",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/ordinario/1/hugogi",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/ordinario/1/hugogi",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\ordinario\\1\\hugogi",
+        "grupos": [
+            "G_ALUM_INF_ASIR_ORD_1"
+        ]
+    },
+    {
+        "id": 16,
+        "idAlumno": 16,
+        "samaccountname": "albamd",
+        "userPrincipalName": "albamd",
+        "distinguishedName": "CN=albamd,OU=1,OU=dual,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Alba Medina Delgado",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/dual/1/albamd",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/dual/1/albamd",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\dual\\1\\albamd",
+        "grupos": [
+            "G_ALUM_INF_ASIR_DUAL_1"
+        ]
+    },
+    {
+        "id": 17,
+        "idAlumno": 17,
+        "samaccountname": "jorgers",
+        "userPrincipalName": "jorgers",
+        "distinguishedName": "CN=jorgers,OU=1,OU=dual,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Jorge Ramos Saez",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/dual/1/jorgers",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/dual/1/jorgers",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\dual\\1\\jorgers",
+        "grupos": [
+            "G_ALUM_INF_ASIR_DUAL_1"
+        ]
+    },
+    {
+        "id": 18,
+        "idAlumno": 18,
+        "samaccountname": "evacr",
+        "userPrincipalName": "evacr",
+        "distinguishedName": "CN=evacr,OU=1,OU=dual,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Eva Castro Rubio",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/dual/1/evacr",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/dual/1/evacr",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\dual\\1\\evacr",
+        "grupos": [
+            "G_ALUM_INF_ASIR_DUAL_1"
+        ]
+    },
+    {
+        "id": 19,
+        "idAlumno": 19,
+        "samaccountname": "diegolc",
+        "userPrincipalName": "diegolc",
+        "distinguishedName": "CN=diegolc,OU=2,OU=ordinario,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Diego Luna Cabrera",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/ordinario/2/diegolc",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/ordinario/2/diegolc",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\ordinario\\2\\diegolc",
+        "grupos": [
+            "G_ALUM_INF_ASIR_ORD_2"
+        ]
+    },
+    {
+        "id": 20,
+        "idAlumno": 20,
+        "samaccountname": "clarans",
+        "userPrincipalName": "clarans",
+        "distinguishedName": "CN=clarans,OU=2,OU=ordinario,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Clara Núñez Suárez",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/ordinario/2/clarans",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/ordinario/2/clarans",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\ordinario\\2\\clarans",
+        "grupos": [
+            "G_ALUM_INF_ASIR_ORD_2"
+        ]
+    },
+    {
+        "id": 21,
+        "idAlumno": 21,
+        "samaccountname": "pablocd",
+        "userPrincipalName": "pablocd",
+        "distinguishedName": "CN=pablocd,OU=2,OU=ordinario,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Pablo Cruz Del río",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/ordinario/2/pablocd",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/ordinario/2/pablocd",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\ordinario\\2\\pablocd",
+        "grupos": [
+            "G_ALUM_INF_ASIR_ORD_2"
+        ]
+    },
+    {
+        "id": 22,
+        "idAlumno": 22,
+        "samaccountname": "irenesc",
+        "userPrincipalName": "irenesc",
+        "distinguishedName": "CN=irenesc,OU=2,OU=dual,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Irene Santos Cortés",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/dual/2/irenesc",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/dual/2/irenesc",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\dual\\2\\irenesc",
+        "grupos": [
+            "G_ALUM_INF_ASIR_DUAL_2"
+        ]
+    },
+    {
+        "id": 23,
+        "idAlumno": 23,
+        "samaccountname": "oscarrs",
+        "userPrincipalName": "oscarrs",
+        "distinguishedName": "CN=oscarrs,OU=2,OU=dual,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Oscar Rubén Silva",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/dual/2/oscarrs",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/dual/2/oscarrs",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\dual\\2\\oscarrs",
+        "grupos": [
+            "G_ALUM_INF_ASIR_DUAL_2"
+        ]
+    },
+    {
+        "id": 24,
+        "idAlumno": 24,
+        "samaccountname": "noado",
+        "userPrincipalName": "noado",
+        "distinguishedName": "CN=noado,OU=2,OU=dual,OU=asir,OU=informatica,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Noa Durán Ordoñez",
+        "rutHomePers": "/mnt/DatosPersonais/informatica/asir/dual/2/noado",
+        "rutCarpComun": "/mnt/Comun/informatica/asir/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/informatica/asir/dual/2/noado",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\informatica\\asir\\dual\\2\\noado",
+        "grupos": [
+            "G_ALUM_INF_ASIR_DUAL_2"
+        ]
+    },
+    {
+        "id": 25,
+        "idAlumno": 25,
+        "samaccountname": "martinapa",
+        "userPrincipalName": "martinapa",
+        "distinguishedName": "CN=martinapa,OU=1,OU=ordinario,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Martina Pastor Acosta",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/ordinario/1/martinapa",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/ordinario/1/martinapa",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\ordinario\\1\\martinapa",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_ORD_1"
+        ]
+    },
+    {
+        "id": 26,
+        "idAlumno": 26,
+        "samaccountname": "sergiobe",
+        "userPrincipalName": "sergiobe",
+        "distinguishedName": "CN=sergiobe,OU=1,OU=ordinario,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Sergio Benítez Esteban",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/ordinario/1/sergiobe",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/ordinario/1/sergiobe",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\ordinario\\1\\sergiobe",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_ORD_1"
+        ]
+    },
+    {
+        "id": 27,
+        "idAlumno": 27,
+        "samaccountname": "julianm",
+        "userPrincipalName": "julianm",
+        "distinguishedName": "CN=julianm,OU=1,OU=ordinario,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Julia Navarro Méndez",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/ordinario/1/julianm",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/ordinario/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/ordinario/1/julianm",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\ordinario\\1\\julianm",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_ORD_1"
+        ]
+    },
+    {
+        "id": 28,
+        "idAlumno": 28,
+        "samaccountname": "lucasvq",
+        "userPrincipalName": "lucasvq",
+        "distinguishedName": "CN=lucasvq,OU=1,OU=dual,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Lucas Vidal Quintana",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/dual/1/lucasvq",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/dual/1/lucasvq",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\dual\\1\\lucasvq",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_DUAL_1"
+        ]
+    },
+    {
+        "id": 29,
+        "idAlumno": 29,
+        "samaccountname": "valeriasr",
+        "userPrincipalName": "valeriasr",
+        "distinguishedName": "CN=valeriasr,OU=1,OU=dual,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Valeria Soto Rey",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/dual/1/valeriasr",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/dual/1/valeriasr",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\dual\\1\\valeriasr",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_DUAL_1"
+        ]
+    },
+    {
+        "id": 30,
+        "idAlumno": 30,
+        "samaccountname": "manuelal",
+        "userPrincipalName": "manuelal",
+        "distinguishedName": "CN=manuelal,OU=1,OU=dual,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Manuel Arias López",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/dual/1/manuelal",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/dual/1",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/dual/1/manuelal",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\dual\\1\\manuelal",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_DUAL_1"
+        ]
+    },
+    {
+        "id": 31,
+        "idAlumno": 31,
+        "samaccountname": "danielaga",
+        "userPrincipalName": "danielaga",
+        "distinguishedName": "CN=danielaga,OU=2,OU=ordinario,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Daniela Gallego Aguilar",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/ordinario/2/danielaga",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/ordinario/2/danielaga",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\ordinario\\2\\danielaga",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_ORD_2"
+        ]
+    },
+    {
+        "id": 32,
+        "idAlumno": 32,
+        "samaccountname": "iváncs",
+        "userPrincipalName": "iváncs",
+        "distinguishedName": "CN=iváncs,OU=2,OU=ordinario,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Iván Caballero Salas",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/ordinario/2/iváncs",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/ordinario/2/iváncs",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\ordinario\\2\\iváncs",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_ORD_2"
+        ]
+    },
+    {
+        "id": 33,
+        "idAlumno": 33,
+        "samaccountname": "carmenab",
+        "userPrincipalName": "carmenab",
+        "distinguishedName": "CN=carmenab,OU=2,OU=ordinario,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Carmen Andrés Blanco",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/ordinario/2/carmenab",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/ordinario/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/ordinario/2/carmenab",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\ordinario\\2\\carmenab",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_ORD_2"
+        ]
+    },
+    {
+        "id": 34,
+        "idAlumno": 34,
+        "samaccountname": "álvaromr",
+        "userPrincipalName": "álvaromr",
+        "distinguishedName": "CN=álvaromr,OU=2,OU=dual,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Álvaro Morales Rico",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/dual/2/álvaromr",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/dual/2/álvaromr",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\dual\\2\\álvaromr",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_DUAL_2"
+        ]
+    },
+    {
+        "id": 35,
+        "idAlumno": 35,
+        "samaccountname": "aliciafv",
+        "userPrincipalName": "aliciafv",
+        "distinguishedName": "CN=aliciafv,OU=2,OU=dual,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Alicia Fuentes Valle",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/dual/2/aliciafv",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/dual/2/aliciafv",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\dual\\2\\aliciafv",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_DUAL_2"
+        ]
+    },
+    {
+        "id": 36,
+        "idAlumno": 36,
+        "samaccountname": "brunofh",
+        "userPrincipalName": "brunofh",
+        "distinguishedName": "CN=brunofh,OU=2,OU=dual,OU=mkpub,OU=comercio,OU=alumnado,DC=cifprodolfoucha,DC=local",
+        "displayName": "Bruno Ferrero Herrera",
+        "rutHomePers": "/mnt/DatosPersonais/comercio/mkpub/dual/2/brunofh",
+        "rutCarpComun": "/mnt/Comun/comercio/mkpub/dual/2",
+        "rutCarpCompartida": "/srv/komp/CarpPersonais/comercio/mkpub/dual/2/brunofh",
+        "rutCarpCompSmb": "\\\\ARQUIVOS\\datPers\\comercio\\mkpub\\dual\\2\\brunofh",
+        "grupos": [
+            "G_ALUM_COM_MKPUB_DUAL_2"
+        ]
+    }
+]
