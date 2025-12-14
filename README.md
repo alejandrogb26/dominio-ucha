@@ -1,11 +1,8 @@
 # 🏆 Simulación de Intranet y Automatización de Usuarios – GaliciaSkills 2025
 
-Durante el curso 2025-2026 tuve la oportunidad de participar en las  
-[**GaliciaSkills 2025**](https://www.edu.xunta.gal/fp/galiciaskills-2025), dentro de la especialidad  
-[**TIC – Administración de Sistemas en Red**](https://www.edu.xunta.gal/fp/listaxe-oficial-participantes-galiciaskills-2025#tic-sistemas-rede).
+Durante el curso 2025-2026 tuve la oportunidad de participar en las [**GaliciaSkills 2025**](https://www.edu.xunta.gal/fp/galiciaskills-2025), dentro de la especialidad [**TIC – Administración de Sistemas en Red**](https://www.edu.xunta.gal/fp/listaxe-oficial-participantes-galiciaskills-2025#tic-sistemas-rede).
 
-Como parte de la preparación para la competición, desarrollé una **simulación completa de la intranet del  
-[CIFP Rodolfo Ucha Piñeiro](https://www.cifprodolfoucha.es/)**, abarcando tanto la **infraestructura de servidores** como la **configuración de los equipos cliente**.
+Como parte de la preparación para la competición, desarrollé una **simulación completa de la intranet del [CIFP Rodolfo Ucha Piñeiro](https://www.cifprodolfoucha.es/)**, abarcando tanto la **infraestructura de servidores** como la **configuración de los equipos cliente**.
 
 ---
 
